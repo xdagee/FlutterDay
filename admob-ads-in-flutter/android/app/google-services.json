@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1061619428780",
+    "firebase_url": "https://admod-ads-fltr.firebaseio.com",
+    "project_id": "admod-ads-fltr",
+    "storage_bucket": "admod-ads-fltr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061619428780:android:4e3531f02a74dd839d9e09",
+        "android_client_info": {
+          "package_name": "com.codelab.awesomedrawingquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061619428780-156fk4lheprhkot73avs6i2rrcd3ublh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codelab.awesomedrawingquiz",
+            "certificate_hash": "81c06324267e9f033c856c4fe7bb6adbbf23d81d"
+          }
+        },
+        {
+          "client_id": "1061619428780-3k7ptf1coou1ihj0irlh43pc8oi21k0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLaGlNwvUzZ0QImqPQp8Bg1CC2u0q5KUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061619428780-3k7ptf1coou1ihj0irlh43pc8oi21k0b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
